@@ -23,10 +23,13 @@ It is designed as a **portfolio project** to showcase skills in supply chain ana
 
 ## Repository Structure
 inventory_optimization_plan/
-├── data/                # simulated dataset (Excel)
-├── dashboard/           # Excel dashboard
-├── images/              # screenshots of the dashboard
-└── README.md            # project documentation
+├── data/
+│   └── inventory_dataset_100_products.xlsx
+├── dashboard/
+├── images/
+├── docs/
+│   └── data_dictionary.md
+└── README.md
 
 ---
 
