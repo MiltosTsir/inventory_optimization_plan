@@ -24,13 +24,21 @@ It is designed as a **portfolio project** to showcase skills in supply chain ana
 ## Repository Structure
 inventory_optimization_plan/
 ├── data/
-│   └── inventory_dataset_100_products.xlsx
+│   └── inventory_dataset_100_products.xlsx   
+│
 ├── dashboard/
+│   └── inventory_dashboard.xlsx              
+│
 ├── images/
+│   └── dashboard_screenshot.png              
+│
 ├── docs/
-│   └── data_dictionary.md
-└── README.md
-
+│   ├── data_dictionary.md                    
+│   ├── kpi_definitions.md                    
+│   └── changelog.md                         
+│
+├── README.md                                 
+└── LICENSE                                   
 ---
 
 ## Key Formulas
